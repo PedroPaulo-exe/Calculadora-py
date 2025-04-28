@@ -9,8 +9,8 @@
 * Divisão
 * Multiplicação
 
-#Propósito
+# Propósito
 *Praticar o uso do Tkinter
 
-#Agradecimentos
+# Agradecimentos
 * Agradecimento ao canal Koolac pelo conteúdo de apoio.
