@@ -1,4 +1,4 @@
-#Project Title
+# Project Title
 * É uma calculadora extremamente simples, feita para explorar a biblioteca tkinter
 #Feito com
 * Python 3.8 (Tkinter)
