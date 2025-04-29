@@ -1,6 +1,6 @@
 import tkinter as tk
 tela_texto = "   "
-#AGRADECIMENTOS PARA O CANAL KOOLAC
+
 def add_tela_texto (sth):
     global tela_texto
     tela_texto= tela_texto + str(sth)
